@@ -1,4 +1,4 @@
-@@@@-👋 Hi, I’m @SainathEklare
+@@@@-👋 Hi, I’m Devops / SRE / Cloud Engineer
 
 @@-👀 I’m interested in DevOps, Site Reliability Engineering (SRE), Cloud Infrastructure (AWS | Azure | GCP), and Automation
 @@-🌱 I’m currently learning advanced Kubernetes, GitOps (ArgoCD), Terraform modules, and observability with Datadog & Prometheus
